@@ -11,7 +11,7 @@
 
 #### 1. [Universitas Wijayakusuma Purwokerto](https://unwiku.ac.id) | Bachelor of Accounting | Purwokerto `2020-2024`
    - Chairman Of The Faculty-Level Legislative Body
-   - Chairman Of Komisi Pemilihan Umum At Faculty Level
+   - Chairman Of Komisi Pemilihan Umum at Faculty Level
  #### 2. [SMA N 2 Purbalingga](https://sma2pbg.sch.id/) | IPS | Purbalingga `2017-2020`
    - Paskibraka Security Coordinator of PASMUDA
 ---
